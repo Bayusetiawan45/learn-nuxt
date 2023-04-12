@@ -1,6 +1,7 @@
 <template>
   <div>
     <MainSection title="Home" :loading="loading">
+
       <Head>
         <Title>Home / Twitter</Title>
       </Head>
